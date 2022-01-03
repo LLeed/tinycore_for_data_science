@@ -12,8 +12,8 @@
   The finality don't only give a modded iso, but also present the steps related the installation and any tricks for facility use the distro, for new users in Linux or high-end Linux users.
   So, the project's characterized in one hand like a tutorial and the other hand delivery a plug-and-play solution for data analise.
 
-##Observations
+## Observations
 1. http://distro.ibiblio.org/tinycorelinux/faq.html#req
 
-##References
+## References
 * http://tinycorelinux.net/
